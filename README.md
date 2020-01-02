@@ -1,16 +1,13 @@
-# Fabric Example Mod
+# Fabric Old Obsidian
 
-## Setup
+Built For Fabric
 
-1. Edit build.gradle and mod.json to suit your needs.
-    * The "mixins" object can be removed from mod.json if you do not need to use mixins.
-    * Please replace all occurences of "modid" with your own mod ID - sometimes, a different string may also suffice.
-2. Run the following command:
+Adds the removed glitch that lets you turn Redstone Wire into Obsidian.
 
-```
-./gradlew idea
-```
+To use, install on the server. Client installation is not mandatory. Fabric API is not required.
 
-## License
+The ~~glitch~~ feature itself:
 
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+* Place a water source or waterlogged block
+* Place Redstone Wire next to the water.
+* Pour Lava on top of the Redstone.

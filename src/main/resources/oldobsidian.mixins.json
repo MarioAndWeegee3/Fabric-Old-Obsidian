@@ -1,11 +1,11 @@
 {
   "required": true,
-  "package": "net.fabricmc.example.mixin",
+  "package": "marioandweegee3.oldobsidian.mixin",
   "compatibilityLevel": "JAVA_8",
   "mixins": [
+    "FluidBlockMixin"
   ],
   "client": [
-    "ExampleMixin"
   ],
   "injectors": {
     "defaultRequire": 1
