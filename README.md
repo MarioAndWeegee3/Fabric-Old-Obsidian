@@ -11,3 +11,5 @@ The ~~glitch~~ feature itself:
 * Place a water source or waterlogged block
 * Place Redstone Wire next to the water.
 * Pour Lava on top of the Redstone.
+
+[CurseForge page](https://www.curseforge.com/minecraft/mc-mods/fabric-old-obsidian)
